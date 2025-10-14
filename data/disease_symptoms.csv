@@ -1,0 +1,322 @@
+Disease,Symptom
+Fungal infection,itching
+Fungal infection,skin_rash
+Fungal infection,nodal_skin_eruptions
+Fungal infection,dischromic _patches
+Allergy,continuous_sneezing
+Allergy,shivering
+Allergy,chills
+Allergy,watering_from_eyes
+GERD,stomach_pain
+GERD,acidity
+GERD,ulcers_on_tongue
+GERD,vomiting
+GERD,cough
+GERD,chest_pain
+Chronic cholestasis,itching
+Chronic cholestasis,vomiting
+Chronic cholestasis,yellowish_skin
+Chronic cholestasis,nausea
+Chronic cholestasis,loss_of_appetite
+Chronic cholestasis,abdominal_pain
+Chronic cholestasis,yellowing_of_eyes
+Drug Reaction,itching
+Drug Reaction,skin_rash
+Drug Reaction,stomach_pain
+Drug Reaction,burning_micturition
+Drug Reaction,spotting_ urination
+Peptic ulcer diseae,vomiting
+Peptic ulcer diseae,indigestion
+Peptic ulcer diseae,loss_of_appetite
+Peptic ulcer diseae,abdominal_pain
+Peptic ulcer diseae,passage_of_gases
+Peptic ulcer diseae,internal_itching
+AIDS,muscle_wasting
+AIDS,patches_in_throat
+AIDS,high_fever
+AIDS,extra_marital_contacts
+Diabetes ,fatigue
+Diabetes ,weight_loss
+Diabetes ,restlessness
+Diabetes ,lethargy
+Diabetes ,irregular_sugar_level
+Diabetes ,blurred_and_distorted_vision
+Diabetes ,obesity
+Diabetes ,excessive_hunger
+Diabetes ,increased_appetite
+Diabetes ,polyuria
+Gastroenteritis,vomiting
+Gastroenteritis,sunken_eyes
+Gastroenteritis,dehydration
+Gastroenteritis,diarrhoea
+Bronchial Asthma,fatigue
+Bronchial Asthma,cough
+Bronchial Asthma,high_fever
+Bronchial Asthma,breathlessness
+Bronchial Asthma,family_history
+Bronchial Asthma,mucoid_sputum
+Hypertension ,headache
+Hypertension ,chest_pain
+Hypertension ,dizziness
+Hypertension ,loss_of_balance
+Hypertension ,lack_of_concentration
+Migraine,acidity
+Migraine,indigestion
+Migraine,headache
+Migraine,blurred_and_distorted_vision
+Migraine,excessive_hunger
+Migraine,stiff_neck
+Migraine,depression
+Migraine,irritability
+Migraine,visual_disturbances
+Cervical spondylosis,back_pain
+Cervical spondylosis,weakness_in_limbs
+Cervical spondylosis,neck_pain
+Cervical spondylosis,dizziness
+Cervical spondylosis,loss_of_balance
+Paralysis (brain hemorrhage),vomiting
+Paralysis (brain hemorrhage),headache
+Paralysis (brain hemorrhage),weakness_of_one_body_side
+Paralysis (brain hemorrhage),altered_sensorium
+Jaundice,itching
+Jaundice,vomiting
+Jaundice,fatigue
+Jaundice,weight_loss
+Jaundice,high_fever
+Jaundice,yellowish_skin
+Jaundice,dark_urine
+Jaundice,abdominal_pain
+Malaria,chills
+Malaria,vomiting
+Malaria,high_fever
+Malaria,sweating
+Malaria,headache
+Malaria,nausea
+Malaria,diarrhoea
+Malaria,muscle_pain
+Chicken pox,itching
+Chicken pox,skin_rash
+Chicken pox,fatigue
+Chicken pox,lethargy
+Chicken pox,high_fever
+Chicken pox,headache
+Chicken pox,loss_of_appetite
+Chicken pox,mild_fever
+Chicken pox,swelled_lymph_nodes
+Chicken pox,malaise
+Chicken pox,red_spots_over_body
+Dengue,skin_rash
+Dengue,chills
+Dengue,joint_pain
+Dengue,vomiting
+Dengue,fatigue
+Dengue,high_fever
+Dengue,headache
+Dengue,nausea
+Dengue,loss_of_appetite
+Dengue,pain_behind_the_eyes
+Dengue,back_pain
+Dengue,malaise
+Dengue,muscle_pain
+Dengue,red_spots_over_body
+Typhoid,chills
+Typhoid,vomiting
+Typhoid,fatigue
+Typhoid,high_fever
+Typhoid,headache
+Typhoid,nausea
+Typhoid,constipation
+Typhoid,abdominal_pain
+Typhoid,diarrhoea
+Typhoid,toxic_look_(typhos)
+Typhoid,belly_pain
+hepatitis A,joint_pain
+hepatitis A,vomiting
+hepatitis A,yellowish_skin
+hepatitis A,dark_urine
+hepatitis A,nausea
+hepatitis A,loss_of_appetite
+hepatitis A,abdominal_pain
+hepatitis A,diarrhoea
+hepatitis A,mild_fever
+hepatitis A,yellowing_of_eyes
+hepatitis A,muscle_pain
+Hepatitis B,itching
+Hepatitis B,fatigue
+Hepatitis B,lethargy
+Hepatitis B,yellowish_skin
+Hepatitis B,dark_urine
+Hepatitis B,loss_of_appetite
+Hepatitis B,abdominal_pain
+Hepatitis B,yellow_urine
+Hepatitis B,yellowing_of_eyes
+Hepatitis B,malaise
+Hepatitis B,receiving_blood_transfusion
+Hepatitis B,receiving_unsterile_injections
+Hepatitis C,fatigue
+Hepatitis C,yellowish_skin
+Hepatitis C,nausea
+Hepatitis C,loss_of_appetite
+Hepatitis C,yellowing_of_eyes
+Hepatitis C,family_history
+Hepatitis D,joint_pain
+Hepatitis D,vomiting
+Hepatitis D,fatigue
+Hepatitis D,yellowish_skin
+Hepatitis D,dark_urine
+Hepatitis D,nausea
+Hepatitis D,loss_of_appetite
+Hepatitis D,abdominal_pain
+Hepatitis D,yellowing_of_eyes
+Hepatitis E,joint_pain
+Hepatitis E,vomiting
+Hepatitis E,fatigue
+Hepatitis E,high_fever
+Hepatitis E,yellowish_skin
+Hepatitis E,dark_urine
+Hepatitis E,nausea
+Hepatitis E,loss_of_appetite
+Hepatitis E,abdominal_pain
+Hepatitis E,yellowing_of_eyes
+Hepatitis E,acute_liver_failure
+Hepatitis E,coma
+Hepatitis E,stomach_bleeding
+Alcoholic hepatitis,vomiting
+Alcoholic hepatitis,yellowish_skin
+Alcoholic hepatitis,abdominal_pain
+Alcoholic hepatitis,swelling_of_stomach
+Alcoholic hepatitis,distention_of_abdomen
+Alcoholic hepatitis,history_of_alcohol_consumption
+Alcoholic hepatitis,fluid_overload
+Tuberculosis,chills
+Tuberculosis,vomiting
+Tuberculosis,fatigue
+Tuberculosis,weight_loss
+Tuberculosis,cough
+Tuberculosis,high_fever
+Tuberculosis,breathlessness
+Tuberculosis,sweating
+Tuberculosis,loss_of_appetite
+Tuberculosis,mild_fever
+Tuberculosis,yellowing_of_eyes
+Tuberculosis,swelled_lymph_nodes
+Tuberculosis,malaise
+Tuberculosis,phlegm
+Tuberculosis,chest_pain
+Tuberculosis,blood_in_sputum
+Common Cold,continuous_sneezing
+Common Cold,chills
+Common Cold,fatigue
+Common Cold,cough
+Common Cold,high_fever
+Common Cold,headache
+Common Cold,swelled_lymph_nodes
+Common Cold,malaise
+Common Cold,phlegm
+Common Cold,throat_irritation
+Common Cold,redness_of_eyes
+Common Cold,sinus_pressure
+Common Cold,runny_nose
+Common Cold,congestion
+Common Cold,chest_pain
+Common Cold,loss_of_smell
+Common Cold,muscle_pain
+Pneumonia,chills
+Pneumonia,fatigue
+Pneumonia,cough
+Pneumonia,high_fever
+Pneumonia,breathlessness
+Pneumonia,sweating
+Pneumonia,malaise
+Pneumonia,phlegm
+Pneumonia,chest_pain
+Pneumonia,fast_heart_rate
+Pneumonia,rusty_sputum
+Dimorphic hemmorhoids(piles),constipation
+Dimorphic hemmorhoids(piles),pain_during_bowel_movements
+Dimorphic hemmorhoids(piles),pain_in_anal_region
+Dimorphic hemmorhoids(piles),bloody_stool
+Dimorphic hemmorhoids(piles),irritation_in_anus
+Heart attack,vomiting
+Heart attack,breathlessness
+Heart attack,sweating
+Heart attack,chest_pain
+Varicose veins,fatigue
+Varicose veins,cramps
+Varicose veins,bruising
+Varicose veins,obesity
+Varicose veins,swollen_legs
+Varicose veins,swollen_blood_vessels
+Varicose veins,prominent_veins_on_calf
+Hypothyroidism,fatigue
+Hypothyroidism,weight_gain
+Hypothyroidism,cold_hands_and_feets
+Hypothyroidism,mood_swings
+Hypothyroidism,lethargy
+Hypothyroidism,dizziness
+Hypothyroidism,puffy_face_and_eyes
+Hypothyroidism,enlarged_thyroid
+Hypothyroidism,brittle_nails
+Hypothyroidism,swollen_extremeties
+Hypothyroidism,depression
+Hypothyroidism,irritability
+Hypothyroidism,abnormal_menstruation
+Hyperthyroidism,fatigue
+Hyperthyroidism,mood_swings
+Hyperthyroidism,weight_loss
+Hyperthyroidism,restlessness
+Hyperthyroidism,sweating
+Hyperthyroidism,diarrhoea
+Hyperthyroidism,fast_heart_rate
+Hyperthyroidism,excessive_hunger
+Hyperthyroidism,muscle_weakness
+Hyperthyroidism,irritability
+Hyperthyroidism,abnormal_menstruation
+Hypoglycemia,vomiting
+Hypoglycemia,fatigue
+Hypoglycemia,anxiety
+Hypoglycemia,sweating
+Hypoglycemia,headache
+Hypoglycemia,nausea
+Hypoglycemia,blurred_and_distorted_vision
+Hypoglycemia,excessive_hunger
+Hypoglycemia,drying_and_tingling_lips
+Hypoglycemia,slurred_speech
+Hypoglycemia,irritability
+Hypoglycemia,palpitations
+Osteoarthristis,joint_pain
+Osteoarthristis,neck_pain
+Osteoarthristis,knee_pain
+Osteoarthristis,hip_joint_pain
+Osteoarthristis,swelling_joints
+Osteoarthristis,painful_walking
+Arthritis,muscle_weakness
+Arthritis,stiff_neck
+Arthritis,swelling_joints
+Arthritis,movement_stiffness
+Arthritis,painful_walking
+(vertigo) Paroymsal  Positional Vertigo,vomiting
+(vertigo) Paroymsal  Positional Vertigo,headache
+(vertigo) Paroymsal  Positional Vertigo,nausea
+(vertigo) Paroymsal  Positional Vertigo,spinning_movements
+(vertigo) Paroymsal  Positional Vertigo,loss_of_balance
+(vertigo) Paroymsal  Positional Vertigo,unsteadiness
+Acne,skin_rash
+Acne,pus_filled_pimples
+Acne,blackheads
+Acne,scurring
+Urinary tract infection,burning_micturition
+Urinary tract infection,bladder_discomfort
+Urinary tract infection,foul_smell_of urine
+Urinary tract infection,continuous_feel_of_urine
+Psoriasis,skin_rash
+Psoriasis,joint_pain
+Psoriasis,skin_peeling
+Psoriasis,silver_like_dusting
+Psoriasis,small_dents_in_nails
+Psoriasis,inflammatory_nails
+Impetigo,skin_rash
+Impetigo,high_fever
+Impetigo,blister
+Impetigo,red_sore_around_nose
+Impetigo,yellow_crust_ooze
